@@ -1,12 +1,12 @@
-FlixZone
+<div style="font-size: 25px; font-weight: bold;">FlixZone</div>
 
 A modern streaming platform where you can browse movies and TV shows, create an account, and watch content with a smooth, intuitive interface. Built like Netflix with a clean UI and fast performance.
 
-<div style="font-size: 20px; font-weight: bold;">--- WHAT IT DOES ---</div>
+<div style="font-size: 25px; font-weight: bold;">--- WHAT IT DOES ---</div>
 
 FlixZone is a video streaming application that lets users discover and watch entertainment. You can sign up, log in securely, browse through a catalog of content organized by categories, and play videos in a built-in player. Everything is responsive and works great on any device.
 
-<div style="font-size: 20px; font-weight: bold;">--- TECH STACK ---</div>
+<div style="font-size: 25px; font-weight: bold;">--- TECH STACK ---</div>
 
 React 19.0 - JavaScript UI framework
 Vite 6.2 - Fast build tool
